@@ -1,4 +1,4 @@
-# Chaitanya AI Backend (FastAPI)
+# Sanjeevani Backend (FastAPI)
 
 Backend prototype for the Chaitanya AI elderly-care assistant.
 
